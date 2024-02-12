@@ -1,0 +1,63 @@
+.sectionText {
+    color: white;
+    font-size: 40px;
+    padding-bottom: none;
+    margin-bottom: none;
+}
+
+.createBody {
+    border-radius: 10px;
+    background-color: rgb(0, 25, 134);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+
+.createBody1 {
+    border-radius: 10px;
+    background-color: rgb(137, 0, 0);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+
+.createBody2 {
+    border-radius: 10px;
+    background-color: rgb(164, 96, 0);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+
+.createBody3 {
+    border-radius: 10px;
+    background-color: rgb(10, 98, 0);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+
+.createTitle {
+    font-size: 24px;
+    padding-left: 15px;
+
+}
+
+.createOptions {
+    font-size: 16px;
+    text-align: center;
+    background-color: #0C6DFD;
+    padding: 5px 0px;
+    border-radius: 5px;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.createView {
+    font-size: 16px;
+    text-align: center;
+    background-color: rgb(67, 151, 67);
+    padding: 5px 0px;
+    border-radius: 5px;
+    width: 100%;
+}
